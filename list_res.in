@@ -1,0 +1,10 @@
+com/koalog/util/Messages.properties
+com/koalog/util/swing/Messages.properties
+com/koalog/util/swing/action/Messages.properties
+com/koalog/util/swing/control/Messages.properties
+com/koalog/util/swing/control/Messages_fr.properties
+com/koalog/util/swing/control/XMLTree.properties
+com/koalog/util/cmdline/Messages.properties
+
+
+

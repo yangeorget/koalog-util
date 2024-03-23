@@ -1,0 +1,29 @@
+#
+#
+# Labels and messages for the util.swing.control package
+#
+#
+
+#
+# Labels
+#
+LAB_ATT_NAME=Attribute name
+
+LAB_ATT_VALUE=Attribute value
+
+LAB_ADD_ATT=Add attribute...
+
+LAB_REMOVE_ATT=Remove attribute
+
+
+#
+# Error messages
+#
+ERR_CREATE_MAP=Impossible to create mapping.
+
+#
+# Standard messages
+#
+MES_CREATE_CL_RD_MAP=Creating mapping between classes: 
+MES_CREATE_PEER_MAP=Creating mapping between tag name and peer class: 
+MES_ATT_NAME_QUESTION=Please enter the attribute name.

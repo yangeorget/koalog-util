@@ -1,0 +1,22 @@
+<BODY>
+<P>
+Provide a set of classes that let define an application from a XML
+file.
+<P>
+The global structure of the XML file is as follows:
+<UL>
+  <LI>action declarations: each of the application actions are
+  declared using an <TT>&lt;ACTION&gt;</TT> element;
+  <LI>menu declarations: the menus are declared using
+  <TT>&lt;MENU&gt;</TT> elements, and menu items are declared with
+  <TT>&lt;MENUITEM&gt;</TT> elements, which are references to the
+  declared actions.
+</UL>
+<P>
+Application definition XML files can be parsed using the
+ApplicationLoader class.
+<P>
+In order to be loaded using an ApplicationLoader instance, an
+application must implement the AutoApplication interface.
+
+</BODY>

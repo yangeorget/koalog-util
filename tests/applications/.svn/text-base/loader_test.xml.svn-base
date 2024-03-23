@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<AUTOAPP Title="BASE_APP_TITLE">
+    <!-- Actions declaration -->
+    <ACTION 
+        Name="Hello World" 
+        Class="util.swing.action.MessageAction"
+        Mnemonic="H"
+        Accelerator="ctrl H"
+        Enabled="true">
+        <PARAM Key="MES_HELLO" Value="Hello"/>
+    </ACTION>
+    <!-- Menu creation -->
+    <MENU Name="File" Mnemonic="F">
+        <MENUITEM Action="Hello World"/>
+        <SEPARATOR/>
+    </MENU>
+</AUTOAPP>

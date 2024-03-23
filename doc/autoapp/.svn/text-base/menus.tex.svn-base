@@ -1,0 +1,3 @@
+\def\helpmenu{
+Item {\bf Help/About} displays the version of the application in a modal window.
+}

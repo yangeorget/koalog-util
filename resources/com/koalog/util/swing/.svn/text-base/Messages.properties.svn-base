@@ -1,0 +1,56 @@
+#
+#
+# Default values for util.swing messages
+#
+#
+
+#
+# Labels
+#
+LAB_ERROR=Error
+LAB_WARNING=Warning
+LAB_INFO=Information
+LAB_CONFIRMATION=Confirmation
+
+#
+# Error messages
+#
+ERR_SAX_ERROR=A SAX exception was thrown while parsing the file.
+
+ERR_SAX_UNDER=The underlying exception is the following:
+
+ERR_PARSE_IO=An IO exception occured while parsing the file.
+
+ERR_APP_NULL=Null parameter forbidden: \
+impossible to populate a null application.
+
+ERR_TITLE_NULL=An application must have a title.
+
+ERR_NULL_ACTION_NAME=An action with no name can not be processed.
+
+ERR_NULL_ACTION_CLASS=An action with no class can not be processed.
+
+ERR_NULL_PARAM_KEY=An action parameter with no key can not be processed.
+
+ERR_NULL_PARAM_VAL=An action parameter with no value can not be processed.
+
+ERR_NULL_MENU_NAME=An menu with no name can not be processed.
+
+ERR_NULL_MENU_ACTION=A menu item with no action can not be processed.
+
+ERR_NULL_HOOK_ACTION=A hook with no action can not be processed.
+
+#
+# Help messages
+#
+
+MES_PROCESSING=Processing element: 
+
+MES_UNKNOWN_TAG=Ignored unknown tag: 
+
+MES_MENUBAR_CREATED=Created a menu bar for the application.
+
+#
+# Action names
+#
+BASE_APP_TITLE=Base Application Example

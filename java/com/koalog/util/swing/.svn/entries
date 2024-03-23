@@ -1,0 +1,86 @@
+8
+
+dir
+10028
+svn+ssh://WPC0549.AMENWORLD.COM/home/svn/trunk/util/java/com/koalog/util/swing
+svn+ssh://WPC0549.AMENWORLD.COM/home/svn
+
+
+
+2006-01-31T11:56:36.595385Z
+9200
+mat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b86a8a69-ae01-0410-9fd4-d4a2597bb3dd
+
+control
+dir
+
+ApplicationLoader.java
+file
+
+
+
+
+2007-09-02T15:24:54.000000Z
+13231747b25e689b884643eebe81f148
+2003-03-19T11:52:15.000000Z
+2955
+yan
+has-props
+
+AutoApplication.java
+file
+
+
+
+
+2007-09-02T15:24:54.000000Z
+85e0f45335a5a9781e45482768e3201c
+2004-07-01T13:40:35.000000Z
+5732
+yan
+has-props
+
+action
+dir
+
+BaseApplication.java
+file
+
+
+
+
+2007-09-02T15:24:54.000000Z
+585dcf78c8b25437eddb05f2710a1cb3
+2004-07-01T13:40:35.000000Z
+5732
+yan
+has-props
+
+package.html
+file
+
+
+
+
+2007-09-02T15:24:54.000000Z
+0ba61c9d16e8f06a7a4fad4992fd1cb8
+2002-04-11T22:02:26.000000Z
+296
+mphilip
+has-props
+

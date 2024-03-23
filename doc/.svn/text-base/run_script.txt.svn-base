@@ -1,0 +1,61 @@
+###########################################################
+#
+# This file explains how to include the run scripts into
+# your projects.
+#
+###########################################################
+
+There are currently 2 run scrupts:
+
+- bin/run.sh
+- bin/run.bat
+
+run.sh has been written for linux operating systems, and run.bat for
+windows operating systems.
+
+The scripts are not usable as they are. To use a script, follow this
+steps (example with run.sh):
+
+1) create myproject/bin/myrunscript.sh containing your project
+   variables. The mandatory project variables are detailed below.
+2) add bin/run.sh (by concatenation) at the end of the created script.
+
+The mandatory project variables are:
+
+MAIN_CLASS: the name of the java class to execute
+
+APP_CLASSPATH: the application classpath. Each entry in the classpath
+can only be a jar file. The scrip will automatically add the correct
+directory in front of each jar file. Example:
+APP_CLASSPATH=log4j.jar:util.jar.
+
+JAVA_VER: the minimum version of the JVM tested with this application.
+
+Optional variables:
+
+JAVA_OPTS: JVM optional arguments
+
+Here are 2 examples, one for run.sh, and one for run.bat:
+
+1) For run.sh (note the specification of the interpreter at the begining)
+
+#!/bin/sh
+MAIN_CLASS=com.koalog.jcf.gui.swing.ConfigTester
+
+APP_CLASSPATH=log4j.jar:util.jar:jcs.jar:jcf.jar:dom.jar:jaxp-api.jar:sax.jar:xalan.jar:xercesImpl.jar:xsltc.jar
+
+JAVA_OPTS=
+
+JAVA_VER=1.2
+
+2) For run.bat (note the echo off command at the begining)
+
+@echo off
+set MAIN_CLASS=com.koalog.jcf.gui.swing.ConfigTester
+
+set APP_CLASSPATH=log4j.jar;util.jar;jcs.jar;jcf.jar;dom.jar;jaxp-api.jar;sax.jar;xalan.jar;xercesImpl.jar;xsltc.jar
+
+set JAVA_OPTS=
+
+set JAVA_VER=1.2
+

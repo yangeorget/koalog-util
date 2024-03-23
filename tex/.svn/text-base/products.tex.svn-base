@@ -1,0 +1,48 @@
+\def\koalog{Koalog\texttrademark}
+\def\jcf{Koalog Configurator\texttrademark}
+\def\jcs{Koalog Constraint Solver\texttrademark}
+\def\lease{Koalog Car Lease\texttrademark}
+\def\kover{Koalog Code Coverage\texttrademark}
+
+\def\sun{Sun}
+\def\java{Java\texttrademark}
+\def\jsp{{\java} Server Page}
+\def\ejb{Enterprise {\java} Beans}
+\def\servlet{{\java} Servlet}
+\def\jdk{JDK}
+\def\jsdk{J2SE\texttrademark SDK}
+\def\solaris{Solaris\texttrademark}
+\def\sunlegal{Solaris, Java and all Java-based marks are
+trademarks or registered trademarks of Sun Microsystems, Inc. in the
+U.S. and other countries.}
+
+\def\junit{JUnit}
+\def\ant{Ant}
+\def\log4j{Log4J}
+\def\asf{Apache Software Foundation}
+
+\def\windows2000{Windows\textregistered\ 2000 operating system}
+\def\windowsXP{Windows\textregistered\ XP operating system}
+\def\excel{Microsoft Excel}
+\def\mslegal{Windows, Windows 2000 and Windows XP are registered trademarks of Microsoft Corporation.}
+
+\def\suse{SuSE Linux}
+\def\redhat{RedHat Linux}
+\def\fedoracore{Fedora Core}
+\def\linuxlegal{Linux is a registered trademark of Linus Torvalds.}
+
+\def\ibm{IBM\textregistered}
+\def\ibmlegal{IBM is a trademark of
+International Business Machines Corporation in the United States,
+other countries, or both.}
+
+\def\apachelegal{This product includes software developed by the
+Apache Software Foundation (http://www.apache.org/).}
+\def\mysqllegal{MySQL is a registered trademark of MySQL AB in the United
+States, the European Union and other countries.}
+
+\def\bash{Bash}
+
+
+
+

@@ -1,0 +1,3 @@
+PEER_MENU=util.swing.control.ElementPeer
+PEER_ACTION=util.swing.control.ElementPeer
+PEER_AUTOAPP=util.swing.control.ElementPeer

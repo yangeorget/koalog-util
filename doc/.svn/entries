@@ -1,0 +1,63 @@
+8
+
+dir
+10028
+svn+ssh://WPC0549.AMENWORLD.COM/home/svn/trunk/util/doc
+svn+ssh://WPC0549.AMENWORLD.COM/home/svn
+
+
+
+2002-11-13T14:19:03.000000Z
+2097
+yan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b86a8a69-ae01-0410-9fd4-d4a2597bb3dd
+
+run_script.txt
+file
+
+
+
+
+2007-09-02T15:24:58.000000Z
+4e14d63cdbd7c0a0b71bb3ef1d47e5b6
+2002-06-07T09:59:28.000000Z
+830
+mphilip
+has-props
+
+CHANGES.log
+file
+
+
+
+
+2007-09-02T15:24:58.000000Z
+48b4b40f24f0bcf06388815d70477191
+2002-10-09T16:25:45.000000Z
+1735
+yan
+has-props
+
+autoapp
+dir
+
+cmdline
+dir
+
+packages
+dir
+

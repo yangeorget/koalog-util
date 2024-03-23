@@ -1,0 +1,13 @@
+\newlength{\encadrehsize}
+\newenvironment{centeredframe}{
+    \setlength{\encadrehsize}{\hsize}
+    \addtolength{\encadrehsize}{-0.5cm}
+    \begin{tabular}{|p{\encadrehsize}|}
+        \hline
+	\begin{center}
+}{
+	\end{center}
+        \\ 
+	\hline
+        \end{tabular}
+}

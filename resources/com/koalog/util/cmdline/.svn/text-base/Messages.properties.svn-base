@@ -1,0 +1,16 @@
+USAGE=Usage
+OPTIONS=OPTIONS
+ARGUMENTS=ARGUMENTS
+USAGE_ARGUMENTS=If necessary, the -- argument can be used to terminate options.
+USAGE_OPTIONS=Options that do not require arguments can be grouped after a hyphen. Options can appear in any order. A non-recognized option generates an error.
+
+SYNTAX_LOG4J=-lFILE, --log4j=FILE
+USAGE_LOG4J=configures Log4J with FILE
+SYNTAX_HELP=-h, --help
+USAGE_HELP=displays the help
+SYNTAX_WORKING=-wDIRECTORY, --working=DIRECTORY
+USAGE_WORKING=specifies the working directory 
+SYNTAX_VERSION=-v, --version
+USAGE_VERSION=displays the version
+SYNTAX_DISPLAY=-dWIDTHxHEIGHT, --display=WIDTHxHEIGHT
+USAGE_DISPLAY=specifies the size (WIDTH and HEIGHT) of the window

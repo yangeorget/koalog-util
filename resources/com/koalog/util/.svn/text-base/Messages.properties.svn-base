@@ -1,0 +1,5 @@
+VERSION_NOT_DEFINED=Version not defined
+PRODUCT_NOT_DEFINED=Product not defined
+JAR_NOT_FOUND=Jar not found
+
+ASK_LICENSE_FILE=Enter the location of the license file
